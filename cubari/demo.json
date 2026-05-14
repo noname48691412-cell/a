@@ -1,0 +1,19 @@
+{
+  "title": "demo",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://raw.githubusercontent.com/noname48691412-cell/a/main/cubari/demo/ch001/001.jpg",
+  "chapters": {
+    "1": {
+      "title": "",
+      "groups": {
+        "No Group": [
+          "https://raw.githubusercontent.com/noname48691412-cell/a/main/cubari/demo/ch001/001.jpg"
+        ]
+      },
+      "last_updated": "1778763926",
+      "volume": "1"
+    }
+  }
+}
