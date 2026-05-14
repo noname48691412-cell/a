@@ -1,0 +1,16 @@
+{
+    "title": "My Manga",
+    "cover": "https://raw.githubusercontent.com/noname48691412-cell/a/main/assets/1778764521342-36.jpg",
+    "chapters": {
+        "1": {
+            "title": "1",
+            "volume": "1",
+            "groups": {
+                "Nhóm Dịch": [
+                    "https://raw.githubusercontent.com/noname48691412-cell/a/main/assets/1778764521342-36.jpg"
+                ]
+            },
+            "last_updated": 1778764524
+        }
+    }
+}
